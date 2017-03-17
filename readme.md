@@ -9,7 +9,7 @@ The goal of this repo is to automate common setup actions taken when installing 
 
 The script will install all custom settings added to the `settings` directory.
 
-##Instructions
+## Instructions
 
 1. Install [Sublime Text 3](https://www.sublimetext.com/3).
 1. Run the setup script:

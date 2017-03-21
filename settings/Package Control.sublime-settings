@@ -1,17 +1,19 @@
 {
   "bootstrapped": true,
   "in_process_packages":
-    [
-    ],
+  [
+  ],
   "installed_packages":
-    [
-      "Emmet",
-      "GitGutter",
-      "Markdown Preview",
-      "Package Control",
-      "Sass",
-      "SideBarEnhancements",
-      "SyncedSideBar",
-      "Theme - Flatland"
-    ]
+  [
+    "Anaconda",
+    "Djaneiro",
+    "Emmet",
+    "GitGutter",
+    "Markdown Preview",
+    "Package Control",
+    "Sass",
+    "SideBarEnhancements",
+    "SyncedSideBar",
+    "Theme - Flatland"
+  ]
 }
